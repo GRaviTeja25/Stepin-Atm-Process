@@ -102,20 +102,20 @@ This project can perform various calculations at the same and make user's task s
 
  
 
-ID                            Description                                                                Status(implemented/future) 
+ID      |                      Description                                                     |           Status(implemented/future) 
 
-HLR-1              ATM system shall provide the customer a receipt for deposits and withdrawals.             Implemented 
+HLR-1         |     ATM system shall provide the customer a receipt for deposits and withdrawals.      |       Implemented 
 
-HLR-2               ATM system shall accept customer requests and provide feedback.                           Implemented 
+HLR-2         |      ATM system shall accept customer requests and provide feedback.                   |        Implemented 
 
-HLR-3               The ATM system shall determine ATM responses to inputs received.                            Future 
+HLR-3         |      The ATM system shall determine ATM responses to inputs received.                  |          Future 
 
  
 
 ## Low Level Requirements: 
 
-ID                   Description                                                           Status 
-LLR-1      ATM communicate with the bank computer to get customer information.             Future 
+ID        |           Description                                                      |     Status 
+LLR-1    |  ATM communicate with the bank computer to get customer information.         |    Future 
 
  
 
