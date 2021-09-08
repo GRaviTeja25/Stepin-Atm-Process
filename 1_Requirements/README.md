@@ -42,7 +42,9 @@ User can deposit Cash from ATM Machine.
 
 ![define system drawio](https://user-images.githubusercontent.com/89765454/132453210-29ba34c2-babc-4b6b-bae2-3dfb20a23a35.png)
 
+## SWOT
 
+![SWOT jpg drawio](https://user-images.githubusercontent.com/89765454/132453611-7b1c43cc-4f5a-425d-92b2-e9d0244d61d2.png)
 
 ## Research: 
 
